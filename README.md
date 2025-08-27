@@ -6,7 +6,7 @@ FullStack Developer
 - 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
 - Engineeing at Karpagam Academy Of higher Education
 - Social Presence
- <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/haswin-sk) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/haswin_65312/)
+ <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/haswin-sk-4a0baa32a/?trk=public-profile-join-page) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/haswin_65312/)
 
 
 ### I code in
