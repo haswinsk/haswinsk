@@ -18,8 +18,8 @@ FullStack Developer
 
 
 ### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/NVIDIA-rtx3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
-<img height="30" src="https://img.shields.io/badge/Windows-ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img height="30" src="https://img.shields.io/badge/NVIDIA-rtx3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5 7535hs-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+<img height="30" src="https://img.shields.io/badge/Windows-ASUS_tuf_a15-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SKhaswin?theme=dark&font=Proza%20Libre&ext=contest)
